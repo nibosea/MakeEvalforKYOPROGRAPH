@@ -24,7 +24,7 @@ graph.cppを取ってきて,コンパイルして実行して(必要に応じて
 
 ↓↓↓ こんな感じﾔﾖ~
 
-![RunFromCommandPrompt](/home/nibo/atcoder/MakeEval/pictures/RunFromCommandPrompt.png)
+![RunFromCommandPrompt](./pictures/RunFromCommandPrompt.png)
 
 <br>
 
@@ -44,7 +44,7 @@ graph.cppを取ってきて,コンパイルして実行して(必要に応じて
 
 **TreePlot...**ってところが出力なので,ここをコピーして,,[Wolframのコレ](https://www.open.wolframcloud.com/env/3a423f32-cc40-4996-bd1e-5c83326ca14e)に式をﾍﾟｯって貼り付けてShift+Enterで実行しましょう.
 
-すると…!![DemoResult](/home/nibo/atcoder/MakeEval/pictures/DemoResult.png)
+すると…!![DemoResult](./pictures/DemoResult.png)
 
 ﾜｯｽｯｹﾞｪ!!グラフだ!!<br>
 
